@@ -39,7 +39,6 @@ export function MemberModal({
             <div className="absolute inset-x-0 bottom-0 p-6 md:p-8">
               <div className="text-xs uppercase tracking-[0.3em] text-accent">{member.role}</div>
               <h3 className="mt-1 font-display text-3xl text-cream md:text-4xl">{member.name}</h3>
-              <p className="mt-2 max-w-xl text-sm text-muted-foreground">{member.bio}</p>
             </div>
           </div>
 
