@@ -7,7 +7,7 @@ import tp6 from "@/assets/tp docu/683868851_1391602713017699_6534141066096228484
 import tp7 from "@/assets/tp docu/685469297_1333958135306271_7058831131904777979_n.jpg";
 import tp8 from "@/assets/tp docu/686184131_939433025465648_807230035867184500_n.jpg";
 import tp9 from "@/assets/tp docu/IMG_20260503_103011.jpg";
-import tpGroup from "@/assets/tp docu/group-photo copy.JPG";
+import tpGroup from "@/assets/tp docu/group-photo copy.jpg";
 
 export type Snapshot = { src: string; caption: string };
 
